@@ -22,6 +22,7 @@ We will be using the Github desktop application to access the assignment materia
   * In the summary field, enter a commit message (e.g. Updated personal data in editMe.txt)
   * Click the "Commit to develop" button
 * We will now create a pull request to submit our assignment work
+  * Click the "push to origin" button (this pushes your editMe change to the remote repository)
   * Click the "pull request" button
   * The dialog that appears should have pre-populated with your commit summary and show that the develop branch is being merged to the master branch
   * Click the "Send Pull Request" button
