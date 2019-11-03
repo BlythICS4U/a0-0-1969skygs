@@ -25,6 +25,6 @@ We will be using the Github desktop application to access the assignment materia
   * Click the "push to origin" button (this pushes your editMe change to the remote repository)
   * Click the "pull request" button
   * The dialog that appears should have pre-populated with your commit summary and show that the develop branch is being merged to the master branch
-  * Click the "Send Pull Request" button
+  * Click the "Create Pull Request" button
 
 Congrats!  You have just submitted a pull request for your work.  If you view your a0-0 repository on Github, you will see that there is 1 pull request listed.  In future assignments that require code changes, this pull request mechanism will make it very easy for me to see the work you've done and provide feedback.
